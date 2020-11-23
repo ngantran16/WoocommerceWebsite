@@ -1,0 +1,46 @@
+.flash-sale-countdown {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ff4444;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 14px;
+    text-transform: uppercase;
+    color: #ffffff;
+    padding: 10px 10px;
+}
+
+.flash-sale-countdown .sale--countdown {
+    display: flex;
+}
+
+.flash-sale-countdown .countdown--label {
+    padding-right: 5px;
+}
+
+.flash-sale-countdown .countdown--counter > span {
+    background-color: #333;
+    border-radius: 3px;
+    margin-right: 5px;
+    padding: 0px 5px;
+}
+
+.flash-sale-countdown .countdown--counter > span:last-child {
+    margin-right: 0;
+}
+
+/* Archive */
+.flash-sale-countdown.fs-archive {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.flash-sale-countdown.fs-archive .sale--countdown {
+    flex-direction: column;
+}
+
+.flash-sale-countdown.fs-archive .countdown--label {
+    padding-right: 0;
+    margin-bottom: 10px;
+}

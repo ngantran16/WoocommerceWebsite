@@ -1,0 +1,48 @@
+# Copyright (C) 2013 TODO
+# This file is distributed under the same license as the TODO package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Flash Sale - Countdown Timer\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/plugin-name\n"
+"POT-Creation-Date: 2020-04-17 17:02+0700\n"
+"PO-Revision-Date: 2014-07-07 18:52+0100\n"
+"Last-Translator: Mte90 <mte90net@gmail.com>\n"
+"Language-Team: Tomiup <tomiup.com@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: templates/archive-countdown.php:16
+msgid "<span class=\"label-text\">Offer ends in</span>"
+msgstr ""
+
+#: templates/single-countdown.php:13
+msgid "Flash Sale"
+msgstr ""
+
+#: templates/single-countdown.php:17
+msgid "<span class=\"label-text\">Offer ends in:</span>"
+msgstr ""
+
+#: woo-flashsale.php:53
+msgid "day"
+msgstr ""
+
+#: woo-flashsale.php:54
+msgid "days"
+msgstr ""
+
+#: woo-flashsale.php:95 woo-flashsale.php:98
+#, php-format
+msgid "<span class=\"onsale\">%s%% off</span>"
+msgstr ""
